@@ -21,13 +21,21 @@ I focus on web and mobile development while exploring game source codes for fun!
 ---
 
 ## 📊 GitHub Stats  
+
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeow-raven&theme=tokyonight)](https://github.com/yeow-raven)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeow-raven&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeow-raven&theme=tokyonight" height="180px"/>
+  <a href="https://github.com/yeow-raven">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeow-raven&theme=tokyonight" height="150px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=yeow-raven&theme=tokyonight" height="150px"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeow-raven&layout=compact&theme=dracula&hide=css" height="180px"/>
+  <a href="https://github.com/yeow-raven">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeow-raven&theme=tokyonight" height="150px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeow-raven&theme=tokyonight" height="150px"/>
+  </a>
 </p>
 
 ---
