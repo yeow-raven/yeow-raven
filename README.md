@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Yeow Raven!  
+## 💻 About Me  
+I'm a developer passionate about learning various programming languages and technologies for web and mobile development.  
 
-<!--
-**yeow-raven/yeow-raven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Technologies I'm Learning:
+- 💻 **Java** 
+- 🌐 **PHP** 
+- 📱 **Dart** 
+- 🏗️ **HTML & CSS**
 
-Here are some ideas to get you started:
+Besides coding, I enjoy **playing games 🎮** and **analyzing game source codes** to understand their mechanics and structure. 🔍  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeow-raven&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎮 Hobbies & Activities  
+- 🔍 **Exploring Game Source Codes** to learn about architecture and mechanics.  
+- 🎮 **Playing Games** for fun and as inspiration for development.  
+- 📖 **Coding & Experimenting** with different programming languages.  
