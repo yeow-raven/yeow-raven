@@ -28,6 +28,8 @@ I'm passionate about coding and always eager to learn new technologies. I focus 
   <img src="https://github-readme-stats.vercel.app/api?username=yeow-raven&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeow-raven&theme=tokyonight" height="180px"/>
 </div>
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeow-raven&layout=compact&theme=dracula)
 
 ---
 
