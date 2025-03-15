@@ -7,16 +7,12 @@
 I'm passionate about coding and always eager to learn new technologies.  
 I focus on web and mobile development while exploring game source codes for fun!  
 
-### 🔥 Technologies I'm Learning:  
-- 💻 **Java**  
-- 🌐 **PHP**  
-- 📱 **Dart**  
-- 🎨 **HTML, CSS & JavaScript**  
-
 ---
 
 ## 🎮 Hobbies & Activities  
-🎮 **Gaming** | 🔍 **Exploring Game Source Codes** | 💡 **Coding & Experimenting**  
+🎮 **Gaming** (PES, Minecraft, Mobile Legends, Valorant, Roblox)  
+🔍 **Exploring Game Source Codes**  
+💡 **Coding & Experimenting**  
 
 🌟 *"Code like a gamer, play like a developer!"*  
 
@@ -38,6 +34,7 @@ I focus on web and mobile development while exploring game source codes for fun!
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDevelop-FF6600?style=for-the-badge&logo=gdevelop&logoColor=white"/>
 </p>
 
 ### 🚀 Technology Stack  
