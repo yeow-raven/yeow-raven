@@ -4,12 +4,13 @@
 ![Banner](https://github.com/yeow-raven/yeow-raven/blob/main/blackgoku.gif)  
 
 ## 💻 About Me  
-I'm passionate about coding and always eager to learn new technologies. I focus on web and mobile development while exploring game source codes for fun!  
+I'm passionate about coding and always eager to learn new technologies.  
+I focus on web and mobile development while exploring game source codes for fun!  
 
 ### 🔥 Technologies I'm Learning:  
-- 💻 **Java** 
-- 🌐 **PHP** 
-- 📱 **Dart** 
+- 💻 **Java**  
+- 🌐 **PHP**  
+- 📱 **Dart**  
 - 🎨 **HTML, CSS & JavaScript**  
 
 ---
@@ -17,33 +18,44 @@ I'm passionate about coding and always eager to learn new technologies. I focus 
 ## 🎮 Hobbies & Activities  
 🎮 **Gaming** | 🔍 **Exploring Game Source Codes** | 💡 **Coding & Experimenting**  
 
-🌟 "Code like a gamer, play like a developer!"  
+🌟 *"Code like a gamer, play like a developer!"*  
 
 ![Game Dev GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeow-raven&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeow-raven&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeow-raven&layout=compact&theme=dracula" height="180px"/>
-</div>
-
-
+| <img src="https://github-readme-stats.vercel.app/api?username=yeow-raven&show_icons=true&theme=tokyonight" height="180px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeow-raven&theme=tokyonight" height="180px"/> |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeow-raven&layout=compact&theme=dracula&hide=css" height="180px"/> | |
 
 ---
 
 ## 🛠️ Tools & Technologies  
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql)  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+### 🛠️ Tools  
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
+
+### 🚀 Technology Stack  
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
 ## 📬 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-yeow--raven-blue?style=for-the-badge&logo=github)](https://github.com/yeow-raven)   
+<p align="center">
+  <a href="https://github.com/yeow-raven">
+    <img src="https://img.shields.io/badge/GitHub-yeow--raven-blue?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
