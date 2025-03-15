@@ -16,7 +16,7 @@ I focus on web and mobile development while exploring game source codes for fun!
 
 🌟 *"Code like a gamer, play like a developer!"*  
 
-![Banner]([https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://github.com/yeow-raven/yeow-raven/blob/main/Scared%20Spider%20Web%20GIF%20by%20Xbox.gif))  
+![Banner](https://github.com/yeow-raven/yeow-raven/blob/main/Scared%20Spider%20Web%20GIF%20by%20Xbox.gif)  
 
 ---
 
