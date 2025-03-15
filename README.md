@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ANGGA Ch!  
 ### 🚀 just passing by 
 
-![Banner](https://github.com/yeow-raven/yeow-raven/blob/main/blackgoku.gif)  
+![Banner](https://github.com/yeow-raven/yeow-raven/blob/main/assets/blackgoku.gif)  
 
 ## 💻 About Me  
 I'm passionate about coding and always eager to learn new technologies.  
@@ -16,7 +16,7 @@ I focus on web and mobile development while exploring game source codes for fun!
 
 🌟 *"Code like a gamer, play like a developer!"*  
 
-![Banner](https://github.com/yeow-raven/yeow-raven/blob/main/Scared%20Spider%20Web%20GIF%20by%20Xbox.gif)  
+![Banner](https://github.com/yeow-raven/yeow-raven/blob/main/assets/Scared%20Spider%20Web%20GIF%20by%20Xbox.gif)  
 
 ---
 
