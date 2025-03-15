@@ -22,7 +22,11 @@ I focus on web and mobile development while exploring game source codes for fun!
 
 ## 📊 GitHub Stats  
 
-[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeow-raven&theme=tokyonight)](https://github.com/yeow-raven)
+<p align="center">
+  <a href="https://github.com/yeow-raven">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeow-raven&theme=tokyonight" width="600px"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/yeow-raven">
