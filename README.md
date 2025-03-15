@@ -38,7 +38,7 @@ I focus on web and mobile development while exploring game source codes for fun!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   </a>
   <a href="https://www.apachefriends.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/XAMPP_logo.svg" alt="XAMPP" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="XAMPP" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
