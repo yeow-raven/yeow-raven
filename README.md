@@ -40,8 +40,7 @@ I'm passionate about coding and always eager to learn new technologies. I focus 
 ---
 
 ## 📬 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-yeow--raven-blue?style=for-the-badge&logo=github)](https://github.com/yeow-raven)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/muhammad-angga-choirul](https://www.linkedin.com/in/muhammad-angga-choirul-a27014331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![GitHub](https://img.shields.io/badge/GitHub-yeow--raven-blue?style=for-the-badge&logo=github)](https://github.com/yeow-raven)   
 
 ---
 
