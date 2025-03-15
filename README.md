@@ -27,7 +27,7 @@ I focus on web and mobile development while exploring game source codes for fun!
 <p align="center">
   <a href="https://github.com/yeow-raven">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeow-raven&theme=tokyonight" height="150px"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=yeow-raven&theme=tokyonight" height="150px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeow-raven&theme=tokyonight" height="150px"/>
   </a>
 </p>
 
