@@ -23,7 +23,7 @@ I focus on web and mobile development while exploring game source codes for fun!
 ## 📊 GitHub Stats  
 | <img src="https://github-readme-stats.vercel.app/api?username=yeow-raven&show_icons=true&theme=tokyonight" height="180px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeow-raven&theme=tokyonight" height="180px"/> |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeow-raven&layout=compact&theme=dracula&hide=css" height="180px"/> | |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeow-raven&layout=compact&theme=dracula&hide=css" height="180px"/> 
 
 ---
 
