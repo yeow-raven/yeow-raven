@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ANGGA Ch!  
 ### 🚀 just passing by 
 
-![Banner]([https://source.unsplash.com/1600x500/?technology,coding](https://tenor.com/bbjls.gif))  
+![Banner](<img src="https://media.tenor.com/bbjls.gif" width="100%">)  
 
 ## 💻 About Me  
 I'm passionate about coding and always eager to learn new technologies. I focus on web and mobile development while exploring game source codes for fun!  
