@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ANGGA Ch!  
 ### 🚀 just passing by 
 
-![Banner](<img src="https://media.tenor.com/bbjls.gif" width="100%">)  
+![Banner]([<img src="https://media.tenor.com/bbjls.gif" width="100%">](https://tenor.com/view/dbs-goku-dragon-ball-super-power-manga-gif-15049960))  
 
 ## 💻 About Me  
 I'm passionate about coding and always eager to learn new technologies. I focus on web and mobile development while exploring game source codes for fun!  
